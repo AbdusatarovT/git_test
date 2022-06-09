@@ -1,1 +1,2 @@
-print('hard work')
+print('hard work') 
+print('hello')
